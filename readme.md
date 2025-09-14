@@ -120,6 +120,6 @@ The model was rigorously validated to ensure its stability and reliability.
 * **Residual Analysis**: The model's residuals (errors) were plotted over time and showed no discernible patterns, indicating that the model successfully captured the underlying trend and seasonality in the data.
 * **Actual vs. Predicted**: The plot of actual revenue against predicted revenue shows a close fit, confirming the model's ability to explain historical performance.
 
-
+![Actual vs Predicted Plot](https://github.com/apm2004/lifesight-ml/blob/main/assets/Screenshot%202025-09-14%20193138.png)
 
 ```
